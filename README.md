@@ -1,7 +1,7 @@
 # IT Helpdesk Database – CSC312 Practical Assignment 2
 
 **Team name:** 6ixdevs
-**Student numbers:** 1234567, 2345678, 3456789  *(replace with your group's numbers)*
+**Student numbers:4369626, 4370898, 4337233, 4323187, 4131396, 4119392
 **Course:** CSC312 Databases, University of the Western Cape
 
 ## About the project
