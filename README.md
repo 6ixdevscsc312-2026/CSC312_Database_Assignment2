@@ -34,7 +34,7 @@ pip install mysql-connector-python
 2. Open `helpdesk_app.py` and edit the connection settings at the top of the file:
 
 ```python
-DB_HOST = "localhost"             # address of your MySQL server
+DB_HOST = "IP Address given to you"             # address of your MySQL server
 DB_PORT = 3306                    # port number (no quotes)
 DB_USER = "your_username"
 DB_PASSWORD = "your_password"
