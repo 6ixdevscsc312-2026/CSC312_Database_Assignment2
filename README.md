@@ -35,7 +35,7 @@ pip install mysql-connector-python
 
 ```python
 DB_HOST = "IP Address given to you"             # address of your MySQL server
-DB_PORT = 3306                    # port number (no quotes)
+DB_PORT = 2 followed by last 4 digits of student #   # port number (no quotes)
 DB_USER = "your_username"
 DB_PASSWORD = "your_password"
 DB_NAME = "it_helpdesk"           # the database the program will create/use
